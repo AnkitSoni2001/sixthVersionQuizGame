@@ -1,0 +1,34 @@
+.input_gamepin{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 14rem;
+    border-radius: 5px;
+    background-color: gainsboro;
+    border: none;
+    height: 2.2rem;
+    padding: 1rem;
+}
+
+.btn_play{
+    width: 14rem;
+    background-color: #19105B;
+    border: none;
+    
+}
+.btn_play:hover{
+    background-color: #19105B !important;
+}
+.pin_play{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+#btn{
+    background-color: #19105B !important;
+    border: none;
+}
+

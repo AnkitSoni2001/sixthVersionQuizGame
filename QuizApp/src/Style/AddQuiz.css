@@ -1,0 +1,42 @@
+.generate_pin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.publish_btn{
+    background-color: #FF095C !important;
+    border: none;
+    width: 10rem;
+}
+
+.code_input{
+    text-align: center;
+    border-radius: 5px !important;
+    background-color: gainsboro;
+    border: none !important;
+    height: 2.2rem;
+    width: 10rem;
+}
+.select{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-radius: 5px;
+    background-color: gainsboro;
+    border: none;
+
+}
+
+.add_btn{
+    background-color: #19105B !important;
+}
+
+.form-control{
+    background-color: gainsboro;
+}
+.form-label{
+    /* font-weight: bolder; */
+}

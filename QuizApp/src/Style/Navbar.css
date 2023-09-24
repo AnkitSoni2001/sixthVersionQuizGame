@@ -1,0 +1,13 @@
+.bg_navbar{
+    background-color: #19105B !important;
+}
+
+.btn_nav{
+    background-color: #FF095C;
+}
+
+.btn_nav:hover {
+    background-color: #FF095C; /* Set to the default background color */
+    color: white; /* Set to the default text color */
+    /* You can also remove any other styles that change on hover here */
+}
